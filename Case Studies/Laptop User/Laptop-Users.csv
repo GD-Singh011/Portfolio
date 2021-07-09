@@ -1,0 +1,21 @@
+﻿Age,Gender,Region,Occupation,Income,Has Laptop
+14,male,city,student,0,no
+34,female,city,teacher,22000,no
+42,male,countryside,banker,24000,yes
+30,male,countryside,teacher,25000,no
+16,male,city,student,0,no
+33,female,city,banker,20000,yes
+26,female,city,student,8000,yes
+22,male,city,student,4000,yes
+28,female,countryside,teacher,12000,no
+27,female,city,student,7000,yes
+19,male,city,student,10000,no
+26,female,city,student,11000,yes
+29,female,countryside,banker,18000,yes
+36,male,countryside,banker,26000,no
+35,male,city,student,8000,yes
+54,male,city,officer,30000,yes
+15,male,city,student,2000,yes
+49,female,countryside,officer,25000,yes
+26,male,city,teacher,14000,no
+43,male,city,banker,27000,no
